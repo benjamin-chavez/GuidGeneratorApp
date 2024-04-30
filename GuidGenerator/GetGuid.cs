@@ -6,7 +6,7 @@ using System.Net;
 using Microsoft.Azure.Functions.Worker.Http;
 
 
-
+// t
 namespace GuidGenerator
 {
     public class GetGuid
